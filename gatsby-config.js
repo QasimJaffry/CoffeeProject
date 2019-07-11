@@ -17,6 +17,13 @@ module.exports = {
       },
     },
     {
+			resolve: 'gatsby-plugin-snipcart',
+			options: {
+        apiKey: 'MDA5ZTM5YWItNTQ5NC00M2MwLTlhZGEtMzdlM2NmMzFkYWE0NjM2OTg0Mzc2MDEwMjI0NDc5',
+        autopop:true
+			},
+		},
+    {
       resolve: `gatsby-source-contentful`,
       options: {
         
