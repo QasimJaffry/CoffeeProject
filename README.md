@@ -3,5 +3,9 @@ Coffee Project made using Gatsby
 Things used:
               React
               GraphQL
+              HTML
+              CSS
+              BOOTSTRAP
               
- To run it, you must install Gatsby first and then run the command  'gatsby develop'
+ Link to the website:
+              https://gatsbycoffeeproject.netlify.com/
