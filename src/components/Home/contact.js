@@ -2,6 +2,9 @@ import React from 'react'
 import Title from '../globals/title'
 
 export default function Contact(){
+    
+ 
+
     return (
         <section className="contact py-5">
             <Title title = "contact us" />
@@ -23,7 +26,9 @@ export default function Contact(){
                             <textarea name="description" id="description" className="form-control" rows="5" placeholder="your description here..."/>
 
                         </div>
-                        <button type="submit" className="btn btn-yellow btn-block text-capitalize mt-5">
+                        <button type="submit" 
+                        className="btn btn-yellow btn-block text-capitalize mt-5"
+                        >
                             Submit
                         </button>
                     </form>

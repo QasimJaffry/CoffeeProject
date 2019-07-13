@@ -10,11 +10,10 @@ export default function info(){
                 <div className="row">
                     <div className="col-10 col-sm-8 mx-auto text-center">
                         <p className="lead text-muted mb-5">
-                            When she opened and heaved and birthed our daughter onto our mattress,
-                            I knew we’d never be rid of that bed—the one my dad offered to us,
-                            newlywed and broke, because “wouldn’t it be nice to have your old bed?”
-                            and my bride blurted out a grateful, “Sure!”
-                            But I never told them how another man had cornered a younger me on that bed
+                        Regular Joe's coffee bar is determined to become a daily necessity for local 
+                        coffee addicts, a place to dream of as you try to escape the daily stresses of life
+                         and just
+                         a comfortable place to meet your friends or to read a book, all in one. 
                         </p>
                         <Link to="/about/">
                             <button className="btn text-uppercase btn-yellow">

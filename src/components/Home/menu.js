@@ -47,10 +47,10 @@ export default class menu extends Component {
                         <Title title="best of our menu" />
                           {/*categories*/}
                           <div className="row mb-5">
-                              <div className="col-10 max-auto text-center">
+                              <div className="col-12 max-auto text-center">
                                   {this.state.categories.map((category,index)=>{
                                         return (<button type="button" key={index}
-                                        className="btn btn-yellow text-capitalize m-3"
+                                        className="btn btn-yellow text-capitalize ml-3"
                                         onClick={()=>{
                                             this.handleItems(category)
                                         }}>
