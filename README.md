@@ -2,7 +2,6 @@ Coffee Project made using Gatsby
 
 Things used:
               React
-              GraphQL
               HTML
               CSS
               BOOTSTRAP
